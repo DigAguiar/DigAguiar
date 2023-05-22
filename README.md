@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigAguiar&layout=compact&theme=merko)](https://github.com/DigAguiar/github-readme-stats)
 
 ### Tecnologias Conhecidas / Known Technologies
-<div style="display: inline-block;"><br>
+<div style="display: inline-block;">
         <img alt="Dig-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
         <img alt="Dig-Git" height = "50" width= "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
         <img alt="Dig-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
