@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 - 🌱 Estou cursando Engenharia de Software na UCSAL (Universidade Católica do Salvador) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaVilasBoas&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVilasBoas&layout=compact&theme=merko)](https://github.com/KauaVilasBoas/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DigAguiar&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigAguiar&layout=compact&theme=merko)](https://github.com/DigAguiar/github-readme-stats)
 <div style="display: inline-block;"><br>
-        <img alt="Kaua-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-        <img alt="Kaua-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-        <img alt="Kaua-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-        <img alt="Kaua-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-        <img alt="Kaua-SpringBoot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+        <img alt="Dig-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+        <img alt="Dig-Git" height = "50" width= "40" src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+        <img alt="Dig-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+        <img alt="Dig-PostgreSQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+        <img alt="Dig-SpringBoot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </div>
