@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digaguiar&label=Profile%20views&color=0e75b6&style=flat" alt="digaguiar" /> </p>
 
-- 🔭 I’m currently working on **Game Development with Unity and C#**
-
 - 🌱 I’m currently learning **Spring,Unity and C#**
 
 - 👨‍💻 All of my finished projects are available at [https://github.com/DigAguiar](https://github.com/DigAguiar)
