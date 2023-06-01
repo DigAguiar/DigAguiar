@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring,Unity and C#**
 
-- 👨‍💻 All of my finished projects are available at [https://github.com/DigAguiar](https://github.com/DigAguiar)
+- 👨‍💻 All of my finished projects are available at [[https://github.com/DigAguiar](https://github.com/DigAguiar)](https://github.com/DigAguiar?tab=repositories)
 
 - 📫 How to reach me **diogobarreto2004@gmail.com**
 
