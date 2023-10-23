@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Java, Spring, PostgreSQL, Unity and C#**
+- 🌱 I’m currently learning **Java & Spring**
 
 - 👨‍💻 All of my finished projects are available at https://github.com/DigAguiar?tab=repositories
 
