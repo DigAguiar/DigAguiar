@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo de Aguiar</h1>
-<h3 align="center">A Student of Software Engineer. *with free time 😁*</h3>
+<h3 align="center">A Student of Software Engineer 😁💻</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
