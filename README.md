@@ -3,8 +3,6 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
-     
-
 <br>
 
 - 🌱 I’m currently learning **Java & Spring**
@@ -12,7 +10,6 @@
 - 👨‍💻 All of my finished projects are available at https://github.com/DigAguiar?tab=repositories
 
 - 📫 How to reach me **diogobarreto2004@gmail.com**
-
 
 <p align="left">
 </p>
@@ -30,5 +27,3 @@
      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
      <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
-
-
