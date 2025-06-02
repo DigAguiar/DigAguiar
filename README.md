@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my finished projects are available at https://github.com/DigAguiar?tab=repositories
 
-- 📫 How to reach me **diogobarreto2004@gmail.com**
+- 📫 How to reach me **diogo.aguiarb04@gmail.com**
 
 <p align="left">
 </p>
